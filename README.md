@@ -1,4 +1,4 @@
-## :globe_with_meridians: Google Maps Web Scraping - 18/9/2022
+## :globe_with_meridians: Google Maps Web Scraping
 Scraping all malls in alexandria using [selenium](https://selenium-python.readthedocs.io/).  
 
 The aim of this code: scroll down until the element with div[jstcache="192"] selector appears and if the code throw an exception like `NoSuchElementException`, the loop will break because there is no another elements will appear.
